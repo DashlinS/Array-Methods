@@ -1,18 +1,17 @@
-#
-Array - Methods
-/* map 
-reduce 
-filter 
-forEach 
-sort 
-slice 
-pop 
-shift 
-push 
-unshift 
-includes 
-indexOf 
-every */
+# Array - Methods
+``` map ```
+``` reduce ```
+``` filter ```
+``` forEach ```
+```  sort ```
+``` slice ```
+``` pop ```
+``` shift ```
+``` push ```
+``` unshift ```
+``` includes ```
+``` indexOf ```
+``` every ```
 
 let array = [1,2,3,4,5]
 let arrayTwo = ['h','e','l','l','o']
