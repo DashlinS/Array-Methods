@@ -1,21 +1,4 @@
 # String - Methods
-/*
-charAt
-charCodeAt
-concat
-includes
-indexOf
-match
-repeat
-replace
-search
-slice
-split
-substr
-toLowerCase
-toUpperCase
-trim
-*/
 
 let string = 'Wonderful day we are having!'
 let string2 = ' Wonderful day we are having! '
