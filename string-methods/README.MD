@@ -66,10 +66,12 @@ string.slice(0, 9) //returns wonderful as a new string
 split method separates a string into an array of substrings. This method has a time complexity of o(n)
 
 string.split('') //separates by letter
+
 string.split(' ') //separates by word
 
 ## substr()
 substr method returns a portion of a string from a specified index until a given number or characters after. This method has a time complexity of o(n)
+
 string.substr(0, 13) // returns everything in between index 0 and index 13
 
 
