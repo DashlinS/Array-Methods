@@ -1,6 +1,5 @@
-#
-Array - Methods
-/* map 
+# Array - Methods
+map 
 reduce 
 filter 
 forEach 
@@ -12,7 +11,7 @@ push
 unshift 
 includes 
 indexOf 
-every */
+every
 
 let array = [1,2,3,4,5]
 let arrayTwo = ['h','e','l','l','o']
