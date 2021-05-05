@@ -14,6 +14,7 @@ string.charAt(string.length-1) //get the last character at last index
 ## charCodeAt()
 
 charCodeAt method returns the unicode of the character at the specified index. Has a time complexity of o(1)
+
 string.charCodeAt(4) //unicode of e
 
 ## concat() 
