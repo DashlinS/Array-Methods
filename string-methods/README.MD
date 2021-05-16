@@ -1,21 +1,4 @@
 # String - Methods
-/*
-charAt
-charCodeAt
-concat
-includes
-indexOf
-match
-repeat
-replace
-search
-slice
-split
-substr
-toLowerCase
-toUpperCase
-trim
-*/
 
 let string = 'Wonderful day we are having!'
 let string2 = ' Wonderful day we are having! '
@@ -31,6 +14,7 @@ string.charAt(string.length-1) //get the last character at last index
 ## charCodeAt()
 
 charCodeAt method returns the unicode of the character at the specified index. Has a time complexity of o(1)
+
 string.charCodeAt(4) //unicode of e
 
 ## concat() 
@@ -82,10 +66,12 @@ string.slice(0, 9) //returns wonderful as a new string
 split method separates a string into an array of substrings. This method has a time complexity of o(n)
 
 string.split('') //separates by letter
+
 string.split(' ') //separates by word
 
 ## substr()
 substr method returns a portion of a string from a specified index until a given number or characters after. This method has a time complexity of o(n)
+
 string.substr(0, 13) // returns everything in between index 0 and index 13
 
 
